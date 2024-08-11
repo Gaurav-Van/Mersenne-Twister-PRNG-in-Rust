@@ -50,15 +50,15 @@ The Mersenne Twister uses several parameters for its internal operations:
 
 #### **Algorithm Overview**
 
-<img title="" src="file:///C:/Users/gj979/OneDrive/Pictures/Typedown/3e1fb21d-f269-4484-8fae-790409ed2612.png" alt="3e1fb21d-f269-4484-8fae-790409ed2612" style="zoom:80%;">
+![image](https://github.com/user-attachments/assets/e13585bc-6bdf-4f0f-a6af-a93452a4bf0a)
 
 **Tempering**
 
-<img src="file:///C:/Users/gj979/OneDrive/Pictures/Typedown/ac64f8a5-29cc-4d6e-9bb3-17bb0269185e.png" title="" alt="ac64f8a5-29cc-4d6e-9bb3-17bb0269185e" style="zoom:80%;">
+![image](https://github.com/user-attachments/assets/46a9cef1-7562-4156-8e4d-1746c7943ad5)
 
 **Steps of Algorithm**
 
-<img src="file:///C:/Users/gj979/OneDrive/Pictures/Typedown/2cdf2d6e-65d0-40cd-b6b6-bf3cce568a5a.png" title="" alt="2cdf2d6e-65d0-40cd-b6b6-bf3cce568a5a" style="zoom:80%;">
+![image](https://github.com/user-attachments/assets/0961addd-4b1a-422c-b9d1-506d2771a247)
 
 <hr>
 
