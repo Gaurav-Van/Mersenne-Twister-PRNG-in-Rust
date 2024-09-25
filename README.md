@@ -2,7 +2,7 @@
 
 This is a Rust implementation of the Mersenne Twister (MT19937) pseudorandom number generator (PRNG). This implementation allows you to generate random numbers seeded with the process ID (PID) of the running program, making the sequence of generated numbers different each time the program is run.
 
-The official Research Paper of Mersenne Twister: [Mersenne twister (acm.org)](https://dl.acm.org/doi/pdf/10.1145/272991.272995)
+`The official Research Paper of Mersenne Twister`: [Mersenne twister (acm.org)](https://dl.acm.org/doi/pdf/10.1145/272991.272995)
 
 <hr>
 
